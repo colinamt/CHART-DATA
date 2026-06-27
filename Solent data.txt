@@ -11,7 +11,7 @@
   "num_display_dec_rgb": [150, 150, 150],
   "num_display_dir_flood_rgb": [0, 100, 0],
   "num_display_dir_ebb_rgb": [100, 0, 0],
-  "stream_eastbound_rgb": [200, 200 200],
+  "stream_eastbound_rgb": [200, 200, 200],
   "stream_westbound_rgb": [200, 200, 200],
 
   "portsmouth_curve": [
