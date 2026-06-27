@@ -30,16 +30,26 @@
   ],
 
   "buoys": [
-    {
-      "name": "Gilkicker Vital",
-      "r": 0, "g": 255, "b": 0,
-      "seq": [1000, 1000]
-    },
-    {
-      "name": "Nab Tower Marker",
-      "r": 255, "g": 0, "b": 0,
-      "seq": [500, 500, 500, 1500]
-    }
+    { "name": "Gilkicker Vital", "r": 0, "g": 255, "b": 0, "seq": [1000, 1000] },
+    { "name": "East Bramble (V Qk Fl(3) 5s)", "r": 255, "g": 255, "b": 0, "seq": [200, 200, 200, 200, 200, 4000] },
+    { "name": "West Bramble (Qk Fl(9) 15s)", "r": 255, "g": 255, "b": 0, "seq": [200, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200, 11600] },
+    { "name": "Calshot (Fl G 3s)", "r": 0, "g": 255, "b": 0, "seq": [750, 2250] },
+    { "name": "Hill Head (Fl Y 4s)", "r": 255, "g": 255, "b": 0, "seq": [1000, 3000] },
+    { "name": "Cowes Fairway No 1 (Fl G 2.5s)", "r": 0, "g": 255, "b": 0, "seq": [500, 2000] },
+    { "name": "Cowes Fairway No 2 (Fl R 2.5s)", "r": 255, "g": 0, "b": 0, "seq": [500, 2000] },
+    { "name": "Prince Consort (Flx2 R 5s)", "r": 255, "g": 0, "b": 0, "seq": [500, 500, 500, 3500] },
+    { "name": "Gurnard (L Fl 10s)", "r": 255, "g": 255, "b": 0, "seq": [2000, 8000] },
+    { "name": "Lepe Spit (Qk Fl 1s)", "r": 255, "g": 255, "b": 0, "seq": [300, 700] },
+    { "name": "Ryde Middle (Fl(2) R 10s)", "r": 255, "g": 0, "b": 0, "seq": [500, 1000, 500, 8000] },
+    { "name": "Southsea Castle (Fl(3) R 10s)", "r": 255, "g": 0, "b": 0, "seq": [400, 600, 400, 600, 400, 7600] },
+    { "name": "Spit refuge (Fl R 5s)", "r": 255, "g": 0, "b": 0, "seq": [1000, 4000] },
+    { "name": "No Mans Land Fort (Fl WR 5s)", "r": 255, "g": 255, "b": 255, "seq": [1500, 3500] },
+    { "name": "Horse Sand Fort (Flx2 WR 10s)", "r": 255, "g": 255, "b": 255, "seq": [1000, 1000, 1000, 7000] },
+    { "name": "Warner (Qk Fl R 1s)", "r": 255, "g": 0, "b": 0, "seq": [300, 700] },
+    { "name": "Nab Tower (Flx2 W 10s)", "r": 255, "g": 255, "b": 255, "seq": [500, 1500, 500, 7500] },
+    { "name": "Outer Nab (Fl G 2.5s)", "r": 0, "g": 255, "b": 0, "seq": [500, 2000] },
+    { "name": "Swin (Fl R 4s)", "r": 255, "g": 0, "b": 0, "seq": [1000, 3000] },
+    { "name": "Mother Bank No 2 (Fl(2) R 5s)", "r": 255, "g": 0, "b": 0, "seq": [400, 600, 400, 3600] }
   ],
 
   "tidal_streams": [
@@ -47,6 +57,24 @@
       "name": "Spithead East",
       "base_led": 20,
       "speeds": [0.5, 1.2, 2.1, 2.4, 1.8, 0.9, 0.2, 0.8, 1.5, 2.2, 1.9, 1.1, 0.3],
+      "directions": [true, true, true, true, true, false, false, false, false, false, false, false, true]
+    },
+    {
+      "name": "Portsmouth Approach (Outer)",
+      "base_led": 22,
+      "speeds": [0.3, 0.8, 1.4, 1.7, 1.2, 0.5, 0.1, 0.6, 1.1, 1.5, 1.3, 0.7, 0.2],
+      "directions": [true, true, true, true, true, false, false, false, false, false, false, false, true]
+    },
+    {
+      "name": "Bramble Bank North",
+      "base_led": 24,
+      "speeds": [0.6, 1.5, 2.6, 2.9, 2.0, 1.1, 0.3, 1.0, 1.9, 2.7, 2.3, 1.4, 0.4],
+      "directions": [true, true, true, true, true, false, false, false, false, false, false, false, true]
+    },
+    {
+      "name": "Western Solent (Lepe)",
+      "base_led": 26,
+      "speeds": [0.8, 1.9, 3.2, 3.5, 2.5, 1.3, 0.4, 1.2, 2.3, 3.3, 2.8, 1.7, 0.5],
       "directions": [true, true, true, true, true, false, false, false, false, false, false, false, true]
     }
   ]
