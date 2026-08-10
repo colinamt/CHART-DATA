@@ -9,7 +9,7 @@
 
   "sinric_app_key": "18ca5824-9787-4302-9d74-c4fba39a354b",
   "sinric_app_secret": "8d37c2a9-1119-4717-a5e6-a4c3b0fa729d-a8284c2c-b1a4-401c-9d69-836f93b8c601",
-  "sinric_switch_id": "6a6ba7dd09efd1746c30c99a",
+  "sinric_switch_id": "6a79dfd06ba33a80b9a76af6",
 
   "tide_height_rgb": [0, 100, 255],
   "ebb_arrow_rgb": [120, 50, 0],
