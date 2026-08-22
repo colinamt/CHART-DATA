@@ -2,11 +2,17 @@
   "latitude": 50.80,
   "longitude": -1.11,
   "refresh_interval_min": 10,
-  "hard_power_limit": 100,
+  "hard_power_limit": 30,
   "buoy_brightness_limit": 100,
   "standard_lw": 1.70,
   "standard_hw": 4.20,
   "tide_base_url": 41,
+  
+  "ukho_api_key": "e6afbb88ccab4f40a8fb89c0c82dc8b9",
+  "ukho_station_id": "0065",
+  "latitude": 50.798,
+  "longitude": -1.091,
+  "refresh_interval_min": 10,
   
   "beaufort_start_led":47,
   "beaufort_count":13,
