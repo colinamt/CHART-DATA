@@ -3,7 +3,7 @@
   "longitude": -1.11,
   "refresh_interval_min": 10,
   "hard_power_limit": 10,
-  "buoy_brightness_limit": 10,
+  "buoy_brightness_limit": 50,
   "standard_lw": 1.70,
   "standard_hw": 4.20,
   "tide_base_url": 41,
