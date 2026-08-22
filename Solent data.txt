@@ -9,7 +9,7 @@
   "tide_base_url": 41,
   
   "ukho_api_key": "e6afbb88ccab4f40a8fb89c0c82dc8b9",
-  "ukho_station_id": "P008",
+  "ukho_station_id": "P004",
   "latitude": 50.798,
   "longitude": -1.091,
   "refresh_interval_min": 10,
