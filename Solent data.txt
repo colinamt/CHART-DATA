@@ -7,6 +7,7 @@
   "standard_lw": 1.70,
   "standard_hw": 4.20,
   "tide_base_url": 41,
+  "tide_height_offset": 0,
   
   "ukho_api_key": "e6afbb88ccab4f40a8fb89c0c82dc8b9",
   "ukho_station_id": "0066",
