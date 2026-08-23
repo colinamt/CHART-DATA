@@ -2,7 +2,7 @@
   "latitude": 50.80,
   "longitude": -1.11,
   "refresh_interval_min": 10,
-  "hard_power_limit": 10,
+  "hard_power_limit": 20,
   "buoy_brightness_limit": 100,
   "standard_lw": 1.70,
   "standard_hw": 4.20,
