@@ -17,7 +17,7 @@
   "longitude": -1.091,
   "refresh_interval_min": 10,
   
-  "beaufort_start_led":-1,
+  "beaufort_start_led":-2,
   "beaufort_count":13,
   "gamma_exponent": 2.5,
 
@@ -53,7 +53,6 @@
   ],
 
   "buoys": [
-    { "name": "1 - LED 36 Marker (Fixed Y)", "r": 255, "g": 255, "b": 0, "seq": [1000, 0] },
     { "name": "2 - Ryde Sands (Fl R 10s)", "r": 255, "g": 0, "b": 0, "seq": [980, 8820] },
     { "name": "3 - N Sturbridge (VQ W)", "r": 255, "g": 255, "b": 255, "seq": [194, 291] },
     { "name": "4 - Gilkicker Pt (Oc G 10s)", "r": 0, "g": 255, "b": 0, "seq": [8240, 2060] },
