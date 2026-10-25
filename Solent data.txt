@@ -17,7 +17,7 @@
   "longitude": -1.091,
   "refresh_interval_min": 10,
   
-  "beaufort_start_led":0,
+  "beaufort_start_led":-1,
   "beaufort_count":13,
   "gamma_exponent": 2.5,
 
