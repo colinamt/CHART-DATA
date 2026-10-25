@@ -6,7 +6,7 @@
   "buoy_brightness_limit": 150,
   "standard_lw": 1.70,
   "standard_hw": 4.20,
-  "tide_base_url": 41,
+  "tide_base_led": 12,
   "tide_height_offset": 0,
   
   "bouy_offset": 20,
@@ -17,7 +17,7 @@
   "longitude": -1.091,
   "refresh_interval_min": 10,
   
-  "beaufort_start_led":47,
+  "beaufort_start_led":0,
   "beaufort_count":13,
   "gamma_exponent": 2.5,
 
