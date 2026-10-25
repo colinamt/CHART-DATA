@@ -9,7 +9,7 @@
   "tide_base_led": 12,
   "tide_height_offset": 0,
   
-  "bouy_offset": 21,
+  "buoy_offset": 21,
   
   "ukho_api_key": "e6afbb88ccab4f40a8fb89c0c82dc8b9",
   "ukho_station_id": "0066",
